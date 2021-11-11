@@ -1,0 +1,25 @@
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+Accepted connection from 192.168.0.100, port 41232
+[  5] local 192.168.0.103 port 5201 connected to 192.168.0.100 port 41234
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-1.00   sec   545 KBytes  4.46 Mbits/sec                  
+[  5]   1.00-2.01   sec   589 KBytes  4.78 Mbits/sec                  
+[  5]   2.01-3.01   sec   653 KBytes  5.37 Mbits/sec                  
+[  5]   3.01-4.00   sec   495 KBytes  4.08 Mbits/sec                  
+[  5]   4.00-5.01   sec   573 KBytes  4.67 Mbits/sec                  
+[  5]   5.01-6.00   sec   673 KBytes  5.52 Mbits/sec                  
+[  5]   6.00-7.01   sec   643 KBytes  5.24 Mbits/sec                  
+[  5]   7.01-8.01   sec   535 KBytes  4.35 Mbits/sec                  
+[  5]   8.01-9.00   sec   211 KBytes  1.75 Mbits/sec                  
+[  5]   9.00-10.01  sec   197 KBytes  1.59 Mbits/sec                  
+[  5]  10.01-10.08  sec  27.1 KBytes  3.47 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-10.08  sec  0.00 Bytes  0.00 bits/sec                  sender
+[  5]   0.00-10.08  sec  5.02 MBytes  4.18 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated
