@@ -1,0 +1,19 @@
+Connecting to host 192.168.0.110, port 5201
+[  4] local 192.168.0.101 port 60311 connected to 192.168.0.110 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.01   sec   128 KBytes  1.04 Mbits/sec  16  
+[  4]   1.01-2.01   sec   128 KBytes  1.05 Mbits/sec  16  
+[  4]   2.01-3.02   sec   128 KBytes  1.04 Mbits/sec  16  
+[  4]   3.02-4.02   sec   128 KBytes  1.05 Mbits/sec  16  
+[  4]   4.02-5.01   sec   128 KBytes  1.05 Mbits/sec  16  
+[  4]   5.01-6.01   sec   128 KBytes  1.05 Mbits/sec  16  
+[  4]   6.01-7.01   sec   128 KBytes  1.04 Mbits/sec  16  
+[  4]   7.01-8.02   sec   128 KBytes  1.04 Mbits/sec  16  
+[  4]   8.02-9.00   sec   128 KBytes  1.06 Mbits/sec  16  
+[  4]   9.00-10.01  sec   136 KBytes  1.11 Mbits/sec  17  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-10.01  sec  1.26 MBytes  1.05 Mbits/sec  6.043 ms  1/160 (0.62%)  
+[  4] Sent 160 datagrams
+
+iperf Done.

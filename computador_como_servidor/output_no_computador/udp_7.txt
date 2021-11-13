@@ -1,0 +1,24 @@
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+Accepted connection from 192.168.0.110, port 42276
+[  5] local 192.168.0.101 port 5201 connected to 192.168.0.110 port 42017
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  5]   0.00-1.00   sec   104 KBytes   851 Kbits/sec  160.936 ms  2/15 (13%)  
+[  5]   1.00-2.01   sec  96.0 KBytes   777 Kbits/sec  96.928 ms  4/16 (25%)  
+[  5]   2.01-3.01   sec   120 KBytes   986 Kbits/sec  56.156 ms  1/16 (6.2%)  
+[  5]   3.01-4.01   sec   120 KBytes   983 Kbits/sec  64.213 ms  1/16 (6.2%)  
+[  5]   4.01-5.00   sec  56.0 KBytes   463 Kbits/sec  70.150 ms  3/10 (30%)  
+[  5]   5.00-6.01   sec  96.0 KBytes   782 Kbits/sec  70.904 ms  4/16 (25%)  
+[  5]   6.01-7.00   sec   136 KBytes  1.12 Mbits/sec  65.161 ms  2/19 (11%)  
+[  5]   7.00-8.01   sec   128 KBytes  1.04 Mbits/sec  45.887 ms  0/16 (0%)  
+[  5]   8.01-9.00   sec   152 KBytes  1.25 Mbits/sec  54.944 ms  0/19 (0%)  
+[  5]   9.00-10.00  sec  80.0 KBytes   656 Kbits/sec  73.602 ms  3/13 (23%)  
+[  5]  10.00-10.13  sec  8.00 KBytes   507 Kbits/sec  86.907 ms  0/1 (0%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  5]   0.00-10.13  sec  0.00 Bytes  0.00 bits/sec  86.907 ms  20/157 (13%)  
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated

@@ -1,0 +1,19 @@
+Connecting to host 192.168.0.110, port 5201
+[  4] local 192.168.0.101 port 37882 connected to 192.168.0.110 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.01   sec   768 KBytes  6.23 Mbits/sec                  
+[  4]   1.01-2.01   sec   384 KBytes  3.14 Mbits/sec                  
+[  4]   2.01-3.02   sec   384 KBytes  3.13 Mbits/sec                  
+[  4]   3.02-4.00   sec   384 KBytes  3.19 Mbits/sec                  
+[  4]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  4]   5.00-6.01   sec   384 KBytes  3.14 Mbits/sec                  
+[  4]   6.01-7.01   sec   256 KBytes  2.09 Mbits/sec                  
+[  4]   7.01-8.00   sec   256 KBytes  2.11 Mbits/sec                  
+[  4]   8.00-9.01   sec   512 KBytes  4.19 Mbits/sec                  
+[  4]   9.01-10.01  sec  1.12 MBytes  9.37 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.01  sec  4.50 MBytes  3.77 Mbits/sec                  sender
+[  4]   0.00-10.01  sec  4.42 MBytes  3.70 Mbits/sec                  receiver
+
+iperf Done.
